@@ -4,8 +4,8 @@ Projeto desenvolvido para a disciplina de Introdução à Computação - CESAR S
 
 ## Tecnologias
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Funcionalidades
@@ -19,5 +19,6 @@ Projeto desenvolvido para a disciplina de Introdução à Computação - CESAR S
 - index.html
 - sobre.html
 - projetos.html
+
 #
 Rodrigo Fernandes Vasconcelos Borba - Turma B
